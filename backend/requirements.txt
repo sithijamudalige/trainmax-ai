@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+python-dotenv
+supabase
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langchain-groq
+langchain-community
+groq
+requests

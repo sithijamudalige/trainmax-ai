@@ -1,0 +1,32 @@
+{
+  "goals_scored": 0,
+  "assists": 0,
+  "clean_sheets": 0,
+  "wins": 1,
+  "losses": 1,
+  "draws": 0,
+  "matches_played": 2,
+  "motm": 0,
+  "hat_trick": 0,
+  "win_streak": 1,
+  "current_streak": 0,
+  "sessions": 4,
+  "topics_count": 0,
+  "achievements": [],
+  "match_log": [
+    {
+      "date": "2026-07-30T19:13:15.082812",
+      "message": "We won today.",
+      "changes": {
+        "wins": 1
+      }
+    },
+    {
+      "date": "2026-07-30T19:14:20.349918",
+      "message": "We lost today's match. I think sithija does not understand his position yet.",
+      "changes": {
+        "losses": 1
+      }
+    }
+  ]
+}

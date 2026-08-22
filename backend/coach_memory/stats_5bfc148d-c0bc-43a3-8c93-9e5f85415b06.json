@@ -1,0 +1,25 @@
+{
+  "goals_scored": 0,
+  "assists": 0,
+  "clean_sheets": 0,
+  "wins": 1,
+  "losses": 0,
+  "draws": 0,
+  "matches_played": 1,
+  "motm": 0,
+  "hat_trick": 0,
+  "win_streak": 1,
+  "current_streak": 1,
+  "sessions": 7,
+  "topics_count": 0,
+  "achievements": [],
+  "match_log": [
+    {
+      "date": "2026-07-26T16:44:02.712131",
+      "message": "we win match today 1- 0",
+      "changes": {
+        "wins": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "user_id": "f4a7b23b-7bca-4d7d-8ecb-8fa834020245",
+  "plans": [
+    {
+      "days": [
+        {
+          "cooldown": "Static stretching for 5 minutes",
+          "day": "Day 1",
+          "drills": [
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on long passes with both feet, aiming for targets 20-25 yards away. Coaching Tips: Keep your ankle flexed and use the laces to strike the ball; Focus on accuracy over power",
+              "name": "Passing Range Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your ankle flexed",
+                "Use the laces to strike the ball"
+              ]
+            },
+            {
+              "duration": "10 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on strengthening your ankle through single-leg squats and balance exercises. Coaching Tips: Keep your weight centered and use your inside foot to balance; Use your outside foot to create space and escape pressure",
+              "name": "Ankle Strengthening Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your weight centered",
+                "Use your inside foot to balance"
+              ]
+            }
+          ],
+          "focus": "Passing Range and Ankle Strengthening",
+          "warmup": "Jogging and dynamic stretching for 5 minutes"
+        },
+        {
+          "cooldown": "Static stretching for 5 minutes",
+          "day": "Day 2",
+          "drills": [
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on quick changes of direction and speed, simulating a game scenario. Coaching Tips: Keep your head up and eyes forward, scanning the field for opportunities; Use your peripheral vision to anticipate opponents' movements",
+              "name": "Box-to-Box Movement Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up",
+                "Use your peripheral vision"
+              ]
+            },
+            {
+              "duration": "15 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on improving your speed and agility through ladder exercises. Coaching Tips: Keep your head up and eyes forward, scanning the field for opportunities; Use your peripheral vision to anticipate opponents' movements",
+              "name": "Agility Ladder Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up",
+                "Use your peripheral vision"
+              ]
+            }
+          ],
+          "focus": "Box-to-Box Movement and Agility",
+          "warmup": "Jogging and dynamic stretching for 5 minutes"
+        },
+        {
+          "cooldown": "Static stretching for 5 minutes",
+          "day": "Day 3",
+          "drills": [
+            {
+              "duration": "15 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on maintaining possession in tight spaces, using different parts of your foot. Coaching Tips: Keep your weight centered and use your inside foot to shield the ball; Use your outside foot to create space and escape pressure",
+              "name": "Ball Retention Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your weight centered",
+                "Use your inside foot to shield the ball"
+              ]
+            },
+            {
+              "duration": "15 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on identifying and exploiting passing opportunities, using your peripheral vision. Coaching Tips: Keep your head up and eyes forward, scanning the field for open teammates; Use your inside foot to control the ball and create space",
+              "name": "Vision Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up",
+                "Use your inside foot to control the ball"
+              ]
+            },
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on applying pressure to opponents, using your speed and agility. Coaching Tips: Keep your weight forward and use your inside foot to apply pressure; Use your outside foot to create space and escape pressure",
+              "name": "Pressing Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your weight forward",
+                "Use your inside foot to apply pressure"
+              ]
+            }
+          ],
+          "focus": "Ball Retention, Vision, and Pressing",
+          "warmup": "Jogging and dynamic stretching for 5 minutes"
+        },
+        {
+          "cooldown": "Static stretching for 5 minutes",
+          "day": "Day 4",
+          "drills": [
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on maintaining possession while being pressured by opponents. Coaching Tips: Keep your weight centered and use your inside foot to shield the ball; Use your outside foot to create space and escape pressure",
+              "name": "Passing with Pressure Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your weight centered",
+                "Use your inside foot to shield the ball"
+              ]
+            },
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on identifying and exploiting passing opportunities, using your peripheral vision. Coaching Tips: Keep your head up and eyes forward, scanning the field for open teammates; Use your inside foot to control the ball and create space",
+              "name": "Vision and Passing Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up",
+                "Use your inside foot to control the ball"
+              ]
+            }
+          ],
+          "focus": "Passing with Pressure and Vision",
+          "warmup": "Jogging and dynamic stretching for 5 minutes"
+        },
+        {
+          "cooldown": "Static stretching for 5 minutes",
+          "day": "Day 5",
+          "drills": [
+            {
+              "duration": "20 minutes",
+              "instructions": "Warm-up: Jogging and dynamic stretching for 5 minutes. Focus on simulating game scenarios, using your skills and vision to create scoring opportunities. Coaching Tips: Keep your head up and eyes forward, scanning the field for opportunities; Use your peripheral vision to anticipate opponents' movements",
+              "name": "Game Scenario Drill",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up",
+                "Use your peripheral vision"
+              ]
+            }
+          ],
+          "focus": "Game Scenario",
+          "warmup": "Jogging and dynamic stretching for 5 minutes"
+        }
+      ],
+      "difficulty": "Advanced",
+      "duration": "2 hours 30 minutes",
+      "extracted_at": "2026-04-13T03:39:45.394148",
+      "key_focus_areas": [
+        "Passing Range",
+        "Box-to-Box Movement",
+        "Ball Retention",
+        "Vision",
+        "Pressing"
+      ],
+      "notes": "Remember to listen to your body and take regular breaks to avoid injury. Believe in your abilities, and the game will unfold in your favor.",
+      "nutrition_tips": [
+        "Stay hydrated throughout the day",
+        "Eat a balanced diet with plenty of protein and complex carbohydrates"
+      ],
+      "summary": "This 10-work plan focuses on improving a midfielder's passing range, box-to-box movement, ball retention, vision, and pressing skills, while also strengthening their ankle and improving agility.",
+      "title": "Midfielder Training Plan",
+      "user_id": "f4a7b23b-7bca-4d7d-8ecb-8fa834020245",
+      "id": "plan_1_1776031802",
+      "saved_at": "2026-04-13T03:40:02.303212"
+    },
+    {
+      "days": [
+        {
+          "cooldown": "10 minutes of stretching and hydration.",
+          "day": "Day 1",
+          "drills": [
+            {
+              "duration": "10 minutes",
+              "instructions": "Roll the ball with your feet, focusing on keeping it close to your body.",
+              "name": "Ball Control Drills",
+              "reps": 5,
+              "sets": 3,
+              "tips": [
+                "Keep your knees slightly bent and your weight evenly distributed on both feet.",
+                "Focus on using the inside of your foot to control the ball."
+              ]
+            },
+            {
+              "duration": "10 minutes",
+              "instructions": "Juggle the ball with your feet, focusing on keeping it in the air for as long as possible.",
+              "name": "Ball Juggling",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your head up and your eyes on the ball at all times.",
+                "Use the laces of your shoes to control the ball."
+              ]
+            },
+            {
+              "duration": "10 minutes",
+              "instructions": "Pass the ball to your friend with different levels of force, focusing on accuracy and control.",
+              "name": "Passing Range",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your ankle locked and your toes pointed down when striking the ball.",
+                "Focus on using the inside of your foot to pass the ball."
+              ]
+            }
+          ],
+          "focus": "Ball Control and Passing",
+          "warmup": "10 minutes of ball control drills and juggling."
+        },
+        {
+          "cooldown": "10 minutes of stretching and hydration.",
+          "day": "Day 2",
+          "drills": [
+            {
+              "duration": "10 minutes",
+              "instructions": "Run back and forth between two points, focusing on maintaining a high tempo and covering a lot of ground.",
+              "name": "Box-to-Box Movement",
+              "reps": 5,
+              "sets": 3,
+              "tips": [
+                "Keep your head up and your eyes scanning the field at all times.",
+                "Focus on using your quick changes of direction to beat your opponent."
+              ]
+            },
+            {
+              "duration": "10 minutes",
+              "instructions": "Pass the ball to your friend with different levels of difficulty, focusing on reading the game and making smart decisions.",
+              "name": "Vision and Passing",
+              "reps": 10,
+              "sets": 3,
+              "tips": [
+                "Keep your eyes on the ball and your friend at all times.",
+                "Focus on using your vision to read the game and make smart passes."
+              ]
+            },
+            {
+              "duration": "10 minutes",
+              "instructions": "Press your friend and try to win the ball back, focusing on maintaining possession and creating scoring opportunities.",
+              "name": "Pressing and Ball Retention",
+              "reps": 5,
+              "sets": 3,
+              "tips": [
+                "Keep your head up and your eyes on the ball at all times.",
+                "Focus on using your quick changes of direction to beat your opponent and win the ball back."
+              ]
+            }
+          ],
+          "focus": "Midfielder-Specific Drills",
+          "warmup": "10 minutes of ball control drills and juggling."
+        },
+        {
+          "cooldown": "10 minutes of stretching and hydration.",
+          "day": "Day 3",
+          "drills": [
+            {
+              "duration": "10 minutes",
+              "instructions": "Play out game situations with your friend, focusing on making smart decisions and creating scoring opportunities.",
+              "name": "Game Situation Drills",
+              "reps": 5,
+              "sets": 3,
+              "tips": [
+                "Keep your eyes on the ball and your friend at all times.",
+                "Focus on using your vision to read the game and make smart decisions."
+              ]
+            }
+          ],
+          "focus": "Game Situation Drills",
+          "warmup": "10 minutes of ball control drills and juggling."
+        }
+      ],
+      "difficulty": "Intermediate",
+      "duration": "40 minutes",
+      "extracted_at": "2026-04-13T03:46:37.403855",
+      "key_focus_areas": [
+        "Ball Control",
+        "Passing",
+        "Movement"
+      ],
+      "notes": "Remember to take regular breaks to avoid exacerbating your ankle injury.",
+      "nutrition_tips": [
+        "Stay hydrated throughout the training session.",
+        "Eat a balanced meal 1-2 hours before training."
+      ],
+      "summary": "A 10-drill training plan for midfielders to improve ball control, passing, and movement.",
+      "title": "Midfielder Training Plan",
+      "user_id": "f4a7b23b-7bca-4d7d-8ecb-8fa834020245",
+      "id": "plan_2_1776032229",
+      "saved_at": "2026-04-13T03:47:09.576734"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+name: Sithija
+age: 23
+position: forword and defnce
+practice_duration: 2 houers
+goals: sithija
+injuries: not now
