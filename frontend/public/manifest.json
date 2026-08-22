@@ -1,0 +1,15 @@
+{
+  "short_name": "TrainMax",
+  "name": "TrainMax - Elite AI Football Coaching & Training Platform",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#0a0f1d"
+}

@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Train Max AI",
+    "slug": "trainmaxmobile",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0c29"
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#0f0c29",
+      "translucent": true
+    },
+    "androidNavigationBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#0f0c29",
+      "visible": "always"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#0f0c29"
+      },
+      "package": "com.trainmax.mobile"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trainmax.mobile"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "beaa64b0-7fd6-43c2-9391-2da15a18072c"
+      }
+    }
+  }
+}
