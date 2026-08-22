@@ -9,3 +9,4 @@ __pycache__/
 build/
 dist/
 .expo/
+backend/chroma_db/
